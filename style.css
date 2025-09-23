@@ -1,37 +1,4 @@
 
-body {
-	font-family: 'Segoe UI', Arial, sans-serif;
-	background: #ffffff;
-	margin: 0;
-	padding: 0;
+h1{
+	text-align: center;
 }
-h1  {
-    color: rgb(16, 113, 240);
-} 
-h2 {
-    color: #006ec2;
-    font-size: 1.8rem;
-    font-weight: 600;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-.header-flex h1 {
-	color: #53aa15;
-	font-size: 2.5rem;
-	font-weight: 700;
-	margin: 0;
-	letter-spacing: 1px;
-}
-
-.logo-plytech {
-	height: 100px;
-	width: auto;
-	display: block;
-	
-        content: url('https://user-images.githubusercontent.com/plytech-logo.png');
-        display: block;
-        max-width: 100%;
-        height: auto;
-    } 
-
