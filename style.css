@@ -1,8 +1,17 @@
-
-h1{
-	text-align: center;
-	font-family: "Permanent Marker", cursive;
+h1 {
+    font-size: 1.5em;
+    text-align: center;
+    font-family: "Permanent Marker", cursive;
     color: blue;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+h2, h3, h4, h5, h6 {
+    font-size: 1.5em;
+    font-family: "Permanent Marker", cursive;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
 } 
 
 body {
@@ -11,4 +20,5 @@ body {
 
 p {
 	font-family: "Permanent Marker", cursive;
-}
+} 
+
